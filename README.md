@@ -6,3 +6,24 @@ It is plain text file to stores all the configuration settings, similar to confi
 Specify things here in key-value pair.
 
 """
+
+title: LanggraphAgenticAI
+emoji: 🐨
+colorFrom: blue	
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py	
+pinned: false	
+license: apache-2.0
+short_description: Refined langgraphAgenticAI
+
+
+
+
+
+
+
+
+
+
