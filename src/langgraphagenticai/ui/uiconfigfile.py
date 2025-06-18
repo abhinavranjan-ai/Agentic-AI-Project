@@ -2,7 +2,7 @@
 from configparser import ConfigParser
 
 class Config:
-    def __init__(self, confile_file = "E:/langgraph-projects/src/langgraphagenticai/ui/uiconfigs.ini"):
+    def __init__(self, confile_file = "./src/langgraphagenticai/ui/uiconfigs.ini"):
         self.config = ConfigParser()
         self.config.read(confile_file)
 
